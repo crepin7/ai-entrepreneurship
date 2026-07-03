@@ -1,0 +1,39 @@
+# Core dependencies
+react@^18.2.0
+react-dom@^18.2.0
+@types/react@^18.2.43
+@types/react-dom@^18.2.17
+
+# Frontend framework
+vite@^5.0.8
+typescript@^5.2.2
+
+# UI components
+@tailwindcss/cli@^3.3.6
+lucide-react@^0.294.0
+clsx@^2.0.0
+tailwind-merge@^2.1.0
+
+# State management
+zustand@^4.4.7
+react-router-dom@^6.20.0
+
+# AI & Content Generation
+openai@^4.20.0
+@anthropic-ai/sdk@^0.18.0
+
+# API & Backend
+axios@^1.6.0
+
+# Utilities
+date-fns@^2.30.0
+jszip@^3.10.1
+file-saver@^2.0.5
+
+# Testing
+vitest@^1.0.0
+@testing-library/react@^14.1.0
+
+# Development
+eslint@^8.55.0
+prettier@^3.1.1
